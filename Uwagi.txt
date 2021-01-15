@@ -1,0 +1,3 @@
+Połączenie główki z resztą jest krzywe, ponieważ nie zwróciłem uwagi
+na liczbę segmentów przy tworzeniu głowy. Nie zgadza się ona z tym 
+co już jest i Bridge Edge Loops po prostu jest trochę krzywe.
