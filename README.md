@@ -2,6 +2,7 @@
 Chess pieces made in Blender for my future long term project.
 
 
-First draft
+## First draft
 
-[Imgur](https://imgur.com/o3vKcqy)
+![](https://i.imgur.com/o3vKcqy.png)
+
